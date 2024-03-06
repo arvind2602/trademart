@@ -639,7 +639,7 @@ const Home = () => {
                       height="100%"
                       p="0px 20px 0px 0px"
                       objectFit="cover"
-                      src="https://d21dfqs8hl0txa.cloudfront.net/services/main/trusted_local_gardeners_gardening_service.webp.1200x630_q85_crop-smart.jpg"
+                      src="https://5.imimg.com/data5/SELLER/Default/2023/2/ZN/OU/OJ/2240485/household-pest-control-service.jpg"
                     />
                   </Box>
                   <SimpleGrid
